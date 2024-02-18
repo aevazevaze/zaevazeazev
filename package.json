@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "structures/bot.js",
+  "engines": { "node": "16.14.2" },
   "dependencies": {
     "@discordjs/opus": "^0.7.0",
     "@discordjs/voice": "^0.16.0",
